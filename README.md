@@ -1,15 +1,7 @@
-# <Project title from AG-06>
+# SMPTE RP 2110-23 - Single Video Essence Transport over Multiple ST 2110-20 Streams
 
-_This repository is <public> | <private>._ 
+_This repository is public_ 
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
-## Reporting issues
-
-Please report issues at <link to GitHub issue tracker> or at <TC chair email address>.
-
-## Project details
-
-<description from AG-06>
-
-<and other useful information>
+Please report issues at https://github.com/SMPTE/rp2110-23/issues.
